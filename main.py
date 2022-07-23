@@ -42,12 +42,12 @@ print(carrier.name_for_number(service_pro, "en"))
 
 from opencage.geocoder import OpenCageGeocode
 
-key = '#get key in the opencage geolocation'
+key = '#get key in the opencage geolocation and paste here'
 
 geocoder = OpenCageGeocode(key)
 query = str(Location)
 results = geocoder.geocode(query)
-#print(result)
+
 lat = results[0]['geometry']['lat']
 lng = results[0]['geometry']['lng']
 print(lat,lng)
