@@ -8,6 +8,10 @@ reqiurments*
 
 3.pip install phonenumbers
 
+--------------------------------------------------------------------------------------
+
+Important..
+
 get key in the opencage geolocation
 and paste in key
 
