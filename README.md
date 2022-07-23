@@ -15,3 +15,6 @@ Important..
 get key in the opencage geolocation
 and paste in key
 
+in this link
+https://opencagedata.com
+
